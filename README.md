@@ -24,4 +24,4 @@ yarn run build
 pm2 start --name app-name -i max dist/index.js
 ```
 
-___rapando__
+__[@_rapando](https://twitter.com/_rapando)__
